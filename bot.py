@@ -259,5 +259,6 @@ async def clear(ctx):
 
 
 # Run the bot
-bot.run('MTE3NjM1ODg5MTU2NzcxMDI2OA.GCPpcp.FdM2PWyhKMU9f_m2gk2danTyMTAPZHbCVxvq3s')
+bot.run('MTE3NjM1ODg5MTU2NzcxMDI2OA.GCPpcp.FdM2PWyhKMU9f_m2gk2danTyMTAPZHbCVxvq3s') #I accidently revealed my token here.. now it's automatically resetted. AHHHHHHHHH gotta re run bot.py in my VM again..
+
 print("bot is up and running")
